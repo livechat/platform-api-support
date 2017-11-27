@@ -1,2 +1,2 @@
 # platform-api-support
-Platform API support repository (https://chat.io/docs)
+Chat.io platform API support repository (https://chat.io/docs)
